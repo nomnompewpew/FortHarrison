@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Fort Harrison",
-    "currentPage": "privacy.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -68,9 +68,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
-        "header_custom": "",
+        "title": "Fort Harrison | Home",
+        "meta_descr": "Check out Fort Harrison - a band from Boise, Idaho - not a scientology retreat or a place in Montana.  We play some form of weird indie/psych/folk/rock that is a cathartic expression from all of us. Listening to our music gives you a bit of insight into each of our lives along with a bit of fictional storytelling...can you tell what's real and what's not?",
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Check out Fort Harrison - a band from Boise, Idaho - not a scientology retreat or a place in Montana.  We play some form of weird indie/psych/folk/rock that is a cathartic expression from all of us...\" />\n<meta name=\"keywords\" content=\"Fort Harrison, FH, Fort Harrison Band, Fort Harrison Idaho, Ford Harrison, Harrison Ford, Harrison Ford band, Fort Harrison the Band, Boise bands, Idaho Bands, 208bands, #208music, boise, idaho, Indie Rock, Psychedelic, Beard Ripper, Fort Harrison Merch\" />\n<meta name=\"author\" content=\"metatags generator\">\n<title>Fort Harrison | Home</title>\n<!-- Fort Harrison, Band, Music -->\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -626,9 +626,10 @@
     },
     "music.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
-        "title": "Music",
-        "order": 4
+        "meta_descr": "Check out the brand new release from Fort Harrison - \"Beard Ripper\" is an 5 track EP showcasing some of our songs featuring 5 members on the album. Screaming guitar solos and drums power through this psychedelic story!",
+        "title": "Fort Harrison | Music",
+        "order": 4,
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Check out Fort Harrison - a band from Boise, Idaho - not a scientology retreat or a place in Montana.  We play some form of weird indie/psych/folk/rock that is a cathartic expression from all of us...\" />\n<meta name=\"keywords\" content=\"Fort Harrison, FH, Fort Harrison Band, Fort Harrison Idaho, Ford Harrison, Harrison Ford, Harrison Ford band, Fort Harrison the Band, Boise bands, Idaho Bands, 208bands, #208music, boise, idaho, Indie Rock, Psychedelic, Beard Ripper, Fort Harrison Merch\" />\n<meta name=\"author\" content=\"metatags generator\">\n<title>Fort Harrison | Home</title>\n<!-- Fort Harrison, Band, Music -->\n"
       },
       "components": [
         {
@@ -1224,9 +1225,10 @@
     },
     "gallery.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
-        "title": "Gallery",
-        "order": 5
+        "meta_descr": "Check out this page that sometimes has updates from our Instagram - we don't take many pictures....",
+        "title": "Fort Harrison | Gallery",
+        "order": 5,
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Check out Fort Harrison - a band from Boise, Idaho - not a scientology retreat or a place in Montana.  We play some form of weird indie/psych/folk/rock that is a cathartic expression from all of us...\" />\n<meta name=\"keywords\" content=\"Fort Harrison, FH, Fort Harrison Band, Fort Harrison Idaho, Ford Harrison, Harrison Ford, Harrison Ford band, Fort Harrison the Band, Boise bands, Idaho Bands, 208bands, #208music, boise, idaho, Indie Rock, Psychedelic, Beard Ripper, Fort Harrison Merch\" />\n<meta name=\"author\" content=\"metatags generator\">\n<title>Fort Harrison | Home</title>\n<!-- Fort Harrison, Band, Music -->\n"
       },
       "components": [
         {
@@ -1756,9 +1758,10 @@
     },
     "about.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
-        "title": "About",
-        "order": 3
+        "meta_descr": "Check out Fort Harrison - a band from Boise, Idaho - not a scientology retreat or a place in Montana.  We play some form of weird indie/psych/folk/rock that is a cathartic expression from all of us. Listening to our music gives you a bit of insight into each of our lives along with a bit of fictional storytelling...can you tell what's real and what's not?",
+        "title": "Fort Harrison | About",
+        "order": 3,
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Check out Fort Harrison - a band from Boise, Idaho - not a scientology retreat or a place in Montana.  We play some form of weird indie/psych/folk/rock that is a cathartic expression from all of us...\" />\n<meta name=\"keywords\" content=\"Fort Harrison, FH, Fort Harrison Band, Fort Harrison Idaho, Ford Harrison, Harrison Ford, Harrison Ford band, Fort Harrison the Band, Boise bands, Idaho Bands, 208bands, #208music, boise, idaho, Indie Rock, Psychedelic, Beard Ripper, Fort Harrison Merch\" />\n<meta name=\"author\" content=\"metatags generator\">\n<title>Fort Harrison | Home</title>\n<!-- Fort Harrison, Band, Music -->\n"
       },
       "components": [
         {
@@ -2294,9 +2297,10 @@
     },
     "shop.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "Shop",
-        "order": 2
+        "meta_descr": "Check out the Fort Harrison shop for CD's, T-Shirts, Beanies and Hoodies! All of our merch is made to order and shipped directly to you!",
+        "title": "Fort Harrison | Shop",
+        "order": 2,
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Check out Fort Harrison - a band from Boise, Idaho - not a scientology retreat or a place in Montana.  We play some form of weird indie/psych/folk/rock that is a cathartic expression from all of us...\" />\n<meta name=\"keywords\" content=\"Fort Harrison, FH, Fort Harrison Band, Fort Harrison Idaho, Ford Harrison, Harrison Ford, Harrison Ford band, Fort Harrison the Band, Boise bands, Idaho Bands, 208bands, #208music, boise, idaho, Indie Rock, Psychedelic, Beard Ripper, Fort Harrison Merch\" />\n<meta name=\"author\" content=\"metatags generator\">\n<title>Fort Harrison | Home</title>\n<!-- Fort Harrison, Band, Music -->\n"
       },
       "components": [
         {
@@ -2819,9 +2823,10 @@
     },
     "privacy.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "Privacy",
-        "order": 1
+        "meta_descr": "Fort Harrison Privacy page. This is where all the legal jargon goes. Who cares? Well the GDPR and a bunch of other peeps we don't wanna make mad. Check it out if you need to eat some cookies...or I mean remove your cookies. ",
+        "title": "Fort Harrison | Privacy",
+        "order": 1,
+        "header_custom": "\n"
       },
       "components": [
         {
